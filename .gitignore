@@ -6,3 +6,9 @@ Debug/vc110.idb
 *.pdb
 Project1.vcxproj.filters
 *.vcxproj
+*.exe
+Debug/Project1.ilk
+*.idb
+Project1.opensdf
+*.sdf
+Project1.v12.suo
