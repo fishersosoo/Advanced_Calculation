@@ -1,0 +1,8 @@
+*.tlog
+*.obj
+Debug/Project1.lastbuildstate
+*.log
+Debug/vc110.idb
+*.pdb
+Project1.vcxproj.filters
+*.vcxproj
